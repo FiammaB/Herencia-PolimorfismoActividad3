@@ -1,4 +1,3 @@
-¡Excelente adición! El downcasting es un concepto importante relacionado con el polimorfismo. Aquí tienes el README.md actualizado incluyendo la explicación del downcasting en ambos ejercicios.
 
 Ejercicios de Java Orientados a Objetos
 Este repositorio contiene dos ejercicios de programación en Java diseñados para ilustrar y practicar los fundamentos de la Programación Orientada a Objetos (POO), prestando especial atención a conceptos clave como la herencia, el polimorfismo y el downcasting.
